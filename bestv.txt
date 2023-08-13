@@ -1,6 +1,6 @@
 BesTV,#genre#
-CCTV1,https://best-dfknwjyuh-pautsiong.vercel.app/?id=cctv1hd8m/8000000
-CCTV2,https://best-xi.vercel.app/?id=cctv2hd8m/8000000
+CCTV1,https://myphp-cyan.vercel.app/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2,https://myphp-cyan.vercel.app/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://best-dfknwjyuh-pautsiong.vercel.app/bestv.php?id=cctv38m/8000000
 CCTV4,https://php-three-livid.vercel.app/bestv.php?id=cctv4hd8m/8000000
 CCTV5,https://php-three-livid.vercel.app?id=cctv58m/8000000
