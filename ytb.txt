@@ -1,7 +1,7 @@
 油管,#genre#
-台语台,https://myphp-cyan.vercel.app/api/ytb.php?id=6KlRR_DGhmI
+台语台,https://pautsiong.top/api/ytb.php/6KlRR_DGhmI
 
 https://m.youtube.com/watch?v=0fGRISHX1Zw
-平靜祥和的咖啡廳鋼琴曲,https://myphp-cyan.vercel.app/api/0fGRISHX1Zw
+
 鸟,https://pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
 新🐦,http://pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
