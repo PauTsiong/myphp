@@ -4,4 +4,4 @@
 https://m.youtube.com/watch?v=0fGRISHX1Zw
 
 鸟3,https://myphp-pautsiong.vercel.app/api/ytb.php?id=0fGRISHX1Zw
-新3🐦,https://pautsiong.top/api/youtube.php?id=0fGRISHX1Zw
+新3🐦,https://myphp-pautsiong.vercel.app/api/youtube.php?id=0fGRISHX1Zw
