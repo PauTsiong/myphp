@@ -6,3 +6,13 @@ https://www.youtube.com/live/InQwy9Dh6p0?feature=share
 https://m.youtube.com/watch?v=MIA8AKVZ0Yk
 鸟3,https://www.pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
 新3🐦,https://www.pautsiong.top/api/youtube.php?id=MIA8AKVZ0Yk
+
+
+CCTV1-4,https://www.pautsiong.top/api/ceshi.php$id=cctv1
+CCTV1-2,https://www.pautsiong.top/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2,https://pautsiong.top/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3,https://pautsiong.top/api/bestv.php?id=cctv38m/8000000
+CCTV4,https://php-three-livid.vercel.app/bestv.php?id=cctv4hd8m/8000000
+CCTV5,https://php-three-livid.vercel.app?id=cctv58m/8000000
+CCTV5+,https://php-three-livid.vercel.app/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
