@@ -1,5 +1,5 @@
 重庆,#genre#
-爱看导视,http://192.168.1.111/cqyx.php?id=aikanHD
+爱看导视,http://pautsiong.top/cqyx.php?id=aikanHD
 重广融媒,http://192.168.1.111/cqyx.php?id=cqrongmei
 ﻿重庆卫视,http://192.168.1.111/cqyx.php?id=chongqingHD
 重庆新闻,http://192.168.1.111/cqyx.php?id=CQTVNewsHD
