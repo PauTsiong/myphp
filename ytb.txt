@@ -1,7 +1,7 @@
 油管,#genre#
-台语台,https://pautsiong.top/api/ytb.php/6KlRR_DGhmI
+台语台2,https://www.pautsiong.top/api/ytb.php/6KlRR_DGhmI
 
 https://m.youtube.com/watch?v=0fGRISHX1Zw
 
-鸟,https://pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
-新🐦,http://pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
+鸟1,https://www.pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
+新1🐦,http://www.pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
