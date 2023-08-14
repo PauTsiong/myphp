@@ -1,4 +1,5 @@
 BesTV,#genre#
+CCTV1-3,https://pautsiong.top/api/ceshi.php?id=cctv1
 CCTV1-2,https://pautsiong.top/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://pautsiong.top/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://pautsiong.top/api/bestv.php?id=cctv38m/8000000
