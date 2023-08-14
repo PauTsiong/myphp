@@ -1,5 +1,5 @@
 油管,#genre#
-台语台9,https://www.pautsiong.top/api/ytb.php/MIA8AKVZ0Yk
+台语台10,https://www.pautsiong.top/api/ytb.php/MIA8AKVZ0Yk
 
 https://m.youtube.com/watch?v=0fGRISHX1Zw
 https://www.youtube.com/live/InQwy9Dh6p0?feature=share
