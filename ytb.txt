@@ -1,8 +1,8 @@
 油管,#genre#
-台语台9,https://pautsiong.top/api/ytb.php/MIA8AKVZ0Yk
+台语台9,https://www.pautsiong.top/api/ytb.php/MIA8AKVZ0Yk
 
 https://m.youtube.com/watch?v=0fGRISHX1Zw
 https://www.youtube.com/live/InQwy9Dh6p0?feature=share
 https://m.youtube.com/watch?v=MIA8AKVZ0Yk
-鸟3,https://myphp-pautsiong.vercel.app/api/ytb.php?id=0fGRISHX1Zw
-新3🐦,https://pautsiong.top/api/youtube.php?id=MIA8AKVZ0Yk
+鸟3,https://www.pautsiong.top/api/ytb.php?id=0fGRISHX1Zw
+新3🐦,https://www.pautsiong.top/api/youtube.php?id=MIA8AKVZ0Yk
