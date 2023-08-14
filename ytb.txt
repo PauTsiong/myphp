@@ -8,7 +8,7 @@ https://m.youtube.com/watch?v=MIA8AKVZ0Yk
 新3🐦,https://www.pautsiong.top/api/youtube.php?id=MIA8AKVZ0Yk
 
 
-CCTV1-4,https://www.pautsiong.top/api/ceshi.php$id=cctv1
+CCTV1-5,https://pautsiong.top/api/mifeng.php$id=cctv1
 CCTV1-2,https://www.pautsiong.top/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://pautsiong.top/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://pautsiong.top/api/bestv.php?id=cctv38m/8000000
