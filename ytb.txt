@@ -16,3 +16,6 @@ CCTV4,https://php-three-livid.vercel.app/bestv.php?id=cctv4hd8m/8000000
 CCTV5,https://php-three-livid.vercel.app?id=cctv58m/8000000
 CCTV5+,https://php-three-livid.vercel.app/api/bestv.php?id=cctv5phd8m/8000000
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+一,http://mytv.dothome.co.kr/ch/public/1.php
+二,http://mytv.dothome.co.kr/ch/public/2.php
+三,http://mytv.dothome.co.kr/ch/public/3.php
