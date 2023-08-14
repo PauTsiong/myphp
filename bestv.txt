@@ -1,5 +1,5 @@
 BesTV,#genre#
-CCTV1-1,https://myphp-pautsiong.vercel.app/api/bestv.php?id=cctv1hd8m/8000000
+CCTV1-2,https://pautsiong.top/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://pautsiong.top/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://pautsiong.top/api/bestv.php?id=cctv38m/8000000
 CCTV4,https://php-three-livid.vercel.app/bestv.php?id=cctv4hd8m/8000000
